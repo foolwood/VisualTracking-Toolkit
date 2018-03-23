@@ -50,11 +50,12 @@
 
 ## Network
 
-#### BlockQNN
+#### BlockQNN [[code]](code/BlockQNN/BlockQNN.tex)
+
 
 <p align="center">
     <a>
-        <img src="code/BlockQNN/BlockQNN.pdf" width="320">
+        <img src="code/BlockQNN/BlockQNN.png" width="320">
     </a>
 </p>
 
