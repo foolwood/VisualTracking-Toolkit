@@ -50,6 +50,14 @@
 
 ## Network
 
+#### Real-Time Neural Style Transfer for Videos [[code]](code/StyleTransfer/StyleTransfer.tex)
+
+<p align="center">
+    <a>
+        <img src="code/StyleTransfer/StyleTransfer.png" width="640">
+    </a>
+</p>
+
 #### BlockQNN [[code]](code/BlockQNN/BlockQNN.tex)
 
 
@@ -58,4 +66,5 @@
         <img src="code/BlockQNN/BlockQNN.png" width="320">
     </a>
 </p>
+
 
