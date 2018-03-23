@@ -1,7 +1,8 @@
 # VisualTracking-Toolkit
 
 
-## Searching hyper-parameter
+## Hyper-parameter Search (grid search)
+
 
 ### OTB
 
@@ -11,19 +12,36 @@
 
 
 
-## Visualization of results
+## Visualization
 
 ### OTB
 
+#### The tracking speed and AUC performance on OTB-2013. [[code]](code/speed_vs_auc_otb2013.m)
+<p align="center">
+    <a>
+        <img src="img/speed_vs_auc_otb2013.png" width="480">
+    </a>
+</p>
 
 
 ### VOT
 
 #### Expected average overlap plot on VOT2016. [[code]](code/eao_rank_vot2016.m)
-![eao_rank_vot2016](img/eao_rank_vot2016.png)
+<p align="center">
+    <a>
+        <img src="img/eao_rank_vot2016.png" width="480">
+    </a>
+</p>
+
 
 #### Expected averaged overlap performance on different visual attributes. [[code]](code/attr_eao_vot2016.m)
-![attr_eao_vot2016](img/attr_eao_vot2016.png)
+
+
+<p align="center">
+    <a>
+        <img src="img/attr_eao_vot2016.png" width="480">
+    </a>
+</p>
 
 
 ### Heatmaps
@@ -31,3 +49,12 @@
 
 
 ## Network
+
+#### BlockQNN
+
+<p align="center">
+    <a>
+        <img src="code/BlockQNN/BlockQNN.pdf" width="320">
+    </a>
+</p>
+
