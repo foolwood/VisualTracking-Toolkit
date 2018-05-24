@@ -58,6 +58,14 @@
     </a>
 </p>
 
+#### Understanding LSTM Networks [[code]](code/LSTM/LSTM.tex)
+
+<p align="center">
+    <a>
+        <img src="code/LSTM/LSTM.png" width="640">
+    </a>
+</p>
+
 #### Real-Time Neural Style Transfer for Videos [[code]](code/StyleTransfer/StyleTransfer.tex)
 
 <p align="center">
