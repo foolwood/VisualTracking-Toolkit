@@ -50,6 +50,14 @@
 
 ## Network
 
+#### Fully Convolutional Networks for Semantic Segmentation [[code]](code/FCN/FCN.tex)
+
+<p align="center">
+    <a>
+        <img src="code/FCN/FCN.png" width="480">
+    </a>
+</p>
+
 #### Real-Time Neural Style Transfer for Videos [[code]](code/StyleTransfer/StyleTransfer.tex)
 
 <p align="center">
