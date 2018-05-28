@@ -35,8 +35,6 @@
 
 
 #### Expected averaged overlap performance on different visual attributes. [[code]](code/attr_eao_vot2016.m)
-
-
 <p align="center">
     <a>
         <img src="img/attr_eao_vot2016.png" width="480">
@@ -46,12 +44,17 @@
 
 ### Heatmaps
 
+#### Learning Spatially Regularized Correlation Filters for Visual Tracking. [[code]](code/SRDCF/SRDCF.m)
+<p align="center">
+    <a>
+        <img src="code/SRDCF/SRDCF.png" width="480">
+    </a>
+</p>
 
 
 ## Network
 
 #### Fully Convolutional Networks for Semantic Segmentation [[code]](code/FCN/FCN.tex)
-
 <p align="center">
     <a>
         <img src="code/FCN/FCN.png" width="480">
@@ -59,7 +62,6 @@
 </p>
 
 #### Understanding LSTM Networks [[code]](code/LSTM/LSTM.tex)
-
 <p align="center">
     <a>
         <img src="code/LSTM/LSTM.png" width="640">
@@ -67,7 +69,6 @@
 </p>
 
 #### Real-Time Neural Style Transfer for Videos [[code]](code/StyleTransfer/StyleTransfer.tex)
-
 <p align="center">
     <a>
         <img src="code/StyleTransfer/StyleTransfer.png" width="640">
@@ -75,7 +76,6 @@
 </p>
 
 #### BlockQNN [[code]](code/BlockQNN/BlockQNN.tex)
-
 
 <p align="center">
     <a>
