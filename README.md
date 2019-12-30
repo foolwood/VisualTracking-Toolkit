@@ -83,4 +83,12 @@
     </a>
 </p>
 
+#### Auto-DeepLab [[code]](code/Auto-DeepLab/Auto-DeepLab.py)
+
+<p align="center">
+    <a>
+        <img src="code/Auto-DeepLab/Auto-DeepLab.gif" width="640">
+    </a>
+</p>
+
 
